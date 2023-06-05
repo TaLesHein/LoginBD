@@ -1,18 +1,9 @@
-## Getting Started
+## LoginBD
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+É uma aplicação que permite o usuário logar ou cadastrar-se, enviando assim essas informações para o banco de dados.
 
-## Folder Structure
+O LoginBD é uma aplicação de estudo para testar meus conhecimentos na conexão entre Java e MySQL através da API JDBC.
 
-The workspace contains two folders by default, where:
+### O que é JDBC?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+JDBC (Java DataBase Connectivity) é uma API que permite a interação da linguagem Java entre os mais diversos bancos de dados.
